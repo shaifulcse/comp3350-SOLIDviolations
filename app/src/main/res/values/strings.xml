@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Expense Tracker</string>
+    <string name="title_add_expense">Add expense</string>
+    <string name="total_label">Total spent</string>
+    <string name="add_expense">Add expense</string>
+    <string name="share_summary">Share summary</string>
+    <string name="no_expenses">No expenses yet.</string>
+    <string name="hint_delete">Long-press an expense to delete it.</string>
+    <string name="over_budget">Over budget: %1$s</string>
+    <string name="hint_title">Title</string>
+    <string name="hint_amount">Amount (e.g. 12.50)</string>
+    <string name="label_category">Category</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="title_delete_expense">Delete expense</string>
+    <string name="confirm_delete">Delete \"%1$s\"?</string>
+    <string name="expense_added">Expense added</string>
+    <string name="expense_deleted">Expense deleted</string>
+    <string name="expense_not_found">Expense no longer exists</string>
+    <string name="invalid_amount">Enter a valid amount</string>
+    <string name="summary_saved">Summary saved to %1$s</string>
+    <string name="summary_save_failed">Could not save the summary</string>
+    <string name="share_with">Share summary with</string>
+</resources>
